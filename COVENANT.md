@@ -2,17 +2,17 @@
 # MCP — 設計誓約（ソフト版）
 
 This document describes the **design principles and operational assumptions** of MCP  
-in a concise and non-exhaustive form.  
+in a concise and non-exhaustive form.
 
 本ドキュメントは、MCP における **設計原則および運用上の前提条件**を、  
 簡潔かつ網羅しすぎない形で記述したものです。
 
 It exists to clarify intent, prevent misunderstandings, and support safe collaboration.  
-This document is **descriptive**, not doctrinal.  
+This document is **descriptive**, not doctrinal.
 
 本書は、設計意図を明確にし、誤解を防ぎ、  
 安全な協業を支援するために存在します。  
-これは **思想の押し付けではなく、説明資料**です。
+これは思想の押し付けや規範の宣言ではありません。
 
 ---
 
@@ -20,7 +20,7 @@ This document is **descriptive**, not doctrinal.
 ## 目的
 
 MCP is designed to support **long-term operation of AI and automation systems**  
-in environments where external specifications are unstable or outside the developer’s control.  
+in environments where external specifications are unstable or outside the developer’s control.
 
 MCP は、外部仕様が不安定、あるいは開発者の制御外にある環境において、  
 **AI および自動化システムを長期運用すること**を目的として設計されています。
@@ -120,10 +120,27 @@ This repository intentionally exposes:
   安全性および運用上の前提
 
 Internal implementation details and operational modules  
-are shared only under appropriate agreements.  
+are shared only under appropriate agreements.
 
 内部実装や運用モジュールは、  
 適切な契約関係のもとでのみ共有されます。
+
+---
+
+## Appendix: Design Responsibility (Non-Normative)
+## 付録：設計責任について（非規範）
+
+設計とは、  
+その判断が失敗したときに  
+**自分が呼び戻される前提で行うもの**です。
+
+将来の保守負債を発生させる設計判断を行いながら、  
+その負債を引き受けない立場で設計を行うことは、  
+本プロジェクトの設計思想とは相容れません。
+
+本節は義務や規則を定めるものではなく、  
+設計判断における責任の所在を明確にするための  
+**価値観および姿勢の共有**を目的としています。
 
 ---
 
@@ -131,10 +148,10 @@ are shared only under appropriate agreements.
 ## 補足
 
 This covenant exists to support **predictable collaboration**,  
-not to impose ideology.  
+not to impose ideology.
 
 本誓約は、**予測可能な協業**を支援するためのものであり、  
-思想を押し付けることを目的としません。
+特定の思想や方法論を強制するものではありません。
 
 Design decisions are evaluated by their ability to:  
 設計判断は、以下の観点で評価されます。
