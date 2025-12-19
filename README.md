@@ -93,7 +93,7 @@ from mcp import DownloadEngine, DownloadConfig, BrowserDriver
 - 設計方針  
 - 公開 API の境界  
 - 契約および運用ポリシー  
-
+これは“便利ツール”ではなく、外部依存システムを長期運用するための設計検証です。
 実装コード、テストスイート、運用モジュールは**契約関係に基づく場合にのみ開示**されます。
 
 > This repository is not an open-source distribution.
