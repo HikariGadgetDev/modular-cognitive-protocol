@@ -85,8 +85,7 @@ from mcp import DownloadEngine, DownloadConfig, BrowserDriver
 - 公開 API の境界
 - 契約および運用ポリシー
 
-実装コード、テストスイート、運用モジュールは  
-**契約関係に基づく場合にのみ開示**されます。
+実装コード、テストスイート、運用モジュールは**契約関係に基づく場合にのみ開示**されます。
 
 > This repository is not an open-source distribution.  
 > 本リポジトリは OSS 配布を目的としたものではありません。
