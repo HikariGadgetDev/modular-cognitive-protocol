@@ -107,7 +107,8 @@ from mcp import DownloadEngine, DownloadConfig, BrowserDriver
 MCP は実環境での運用を通じて設計を検証しています。  
 完成品ではなく、壊れやすい現実世界を前提に構造を継続的に改善する基盤です。
 
-**MCP assumes breakage, maintenance, and long-term ownership.**
+**MCP assumes breakage, maintenance, and long-term ownership.**  
+**This design has been implemented and exercised in real workflows.**
 
 ---
 
