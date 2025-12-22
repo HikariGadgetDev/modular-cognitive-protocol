@@ -4,8 +4,7 @@
 This document describes the **design principles and operational assumptions** of MCP  
 in a concise and non-exhaustive form.
 
-本ドキュメントは、MCP における **設計原則および運用上の前提条件**を、  
-簡潔かつ網羅しすぎない形で記述したものです。
+本ドキュメントは、MCP における **設計原則および運用上の前提条件**を、簡潔かつ網羅しすぎない形で記述したものです。
 
 It exists to clarify intent, prevent misunderstandings, and support safe collaboration.  
 This document is **descriptive**, not doctrinal.
