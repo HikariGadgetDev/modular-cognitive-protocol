@@ -14,6 +14,9 @@ This document is **descriptive**, not doctrinal.
 安全な協業を支援するために存在します。  
 これは思想の押し付けや規範の宣言ではありません。
 
+This document can be read as the farewell note of one infrastructure engineer
+who has seen too many systems break.
+
 ---
 
 ## Purpose
